@@ -1,4 +1,4 @@
-# Triangular Arbitrage Bot
+# XTriBot – (Cross-Exchange Triangular Bot)
 
 A Python-based arbitrage bot that scans multiple cryptocurrency exchanges for triangular arbitrage opportunities using the CCXT library.
 
